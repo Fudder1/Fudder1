@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fudder1
-- 👀 I’m interested in breaking into Software/Cloud engineering
-- 🌱 I’m currently learning Python, Bash, Docker, Kubernetes, CI/CD pipelines, and various VM technologies
+- 👀 I’m interested in refining my programming and networking skills
+- 🌱 I’m currently learning Python, Bash, Docker, Kubernetes, CI/CD pipelines, and various cloud technologies
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: linkedin.com/in/kbudzisch/
 
